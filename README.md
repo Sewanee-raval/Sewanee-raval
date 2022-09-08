@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is my profile for anything related to University of the South activities.
+
+All repositories will be private. 
+Any of my public repositories will be found in my personal profile @rgval
+
+
 <!--
 **Sewanee-raval/Sewanee-raval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
