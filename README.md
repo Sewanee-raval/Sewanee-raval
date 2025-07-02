@@ -6,9 +6,6 @@ All Univeristy of the South specific repositories will be private. Repositories 
 
 My public repositories can be found in my personal profile @rgval
 
-Public Repositories
-autodoc - Fork of Hernan Fernandez's Automatic Unix Server Documentation System
-
 
 <!--
 **Sewanee-raval/Sewanee-raval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
