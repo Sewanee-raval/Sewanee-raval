@@ -2,15 +2,12 @@
 
 This is my profile for anything related to University of the South activities.
 
-All Univeristy of the South specific repositories will be private. Repoitories that are forks or are based off another repository will be public. 
+All Univeristy of the South specific repositories will be private. Repositories that are forks or are based off another repository will be public. 
 
 My public repositories can be found in my personal profile @rgval
 
 Public Repositories
 autodoc - Fork of Hernan Fernandez's Automatic Unix Server Documentation System
-
-Recordings - fork of Valentine Vucea recordings
-
 
 
 <!--
