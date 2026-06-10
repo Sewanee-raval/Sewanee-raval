@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 
 ### I am a member of the following Organizations
 
-[![ACM](https://a11ybadges.com/badge?logo=acm)](#)
-
-[![IEEE](https://a11ybadges.com/badge?logo=ieee)](#)
+[![ACM](https://a11ybadges.com/badge?logo=acm)](#)  [![IEEE](https://a11ybadges.com/badge?logo=ieee)](#)
 
 
 
